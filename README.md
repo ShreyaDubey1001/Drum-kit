@@ -12,5 +12,4 @@ Welcome to the Simple Drum Kit project! This is a basic web application that sim
 - HTML: To structure the web page.
 - CSS: For styling and layout.
 - JavaScript: For interactivity and handling user input.
-- Audio API: To manage and play the drum sounds.
   
